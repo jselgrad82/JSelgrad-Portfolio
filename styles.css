@@ -1,0 +1,17 @@
+/* CSS by John Selgrad */   
+/*Color Palette:  
+sky=##0082c6
+orangey=##eb9a14
+peach=##ffbc70
+sun=##ffcc00
+clay=##f2f2f2
+*/
+
+/*GLOBAL (base) MOBILE FIRST*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffbc70;
+    margin: 0;
+    padding: 0;
+}
