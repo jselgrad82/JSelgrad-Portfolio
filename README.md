@@ -11,5 +11,5 @@ This project is a personal portfolio website showcasing my work, skills, and exp
 
 ## Published Website
 
-[View my portfolio] https://jselgrad82.github.io/JSelgrad-Portfolio/
+[View my portfolio](https://jselgrad82.github.io/JSelgrad-Portfolio/)
 
